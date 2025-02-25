@@ -1,4 +1,4 @@
-## Lorem ipsum sit amet ✍️
+## Lorem ipsum dolor sit amet ✍️
 
 <!--
 **cybellebem/cybellebem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
